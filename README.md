@@ -197,6 +197,7 @@ If you use this software in your research, please cite:
 
 ## License
 This project is licensed under the MIT License - see the LICENSE file for details.
+[![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg)](LICENSE.md)
 
 ## Acknowledgments
 Prof. DS van Vuuren (University of Pretoria) - Project supervision
