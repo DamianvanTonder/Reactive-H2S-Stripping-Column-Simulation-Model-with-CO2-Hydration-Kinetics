@@ -169,7 +169,7 @@ This project is licensed under the MIT License - see the LICENSE file for detail
 ## Contact
 - Damian van Tonder
 - Email: u21449300@tuks.co.za or damianvantonder111@gmail.com
-- LinkedIn: [Profile Link]
+- LinkedIn: in/damian-van-tonder-69b198272
 - ORCID: [ORCID ID]
 
 
