@@ -155,7 +155,7 @@ If you use this software in your research, please cite:
   author={van Tonder, D.A.},
   year={2025},
   url={https://github.com/DamianvanTonder/Reactive-H2S-Stripping-Column-Simulation-Model-with-CO2-Hydration-Kinetics.git},
-  version={2.0}
+  version={2.0.1.}
 }
 
 ## _License_
