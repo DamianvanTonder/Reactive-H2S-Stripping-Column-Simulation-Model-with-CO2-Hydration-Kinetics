@@ -156,6 +156,7 @@ If you use this software in your research, please cite:
   url={https://github.com/DamianvanTonder/Reactive-H2S-Stripping-Column-Simulation-Model-with-CO2-Hydration-Kinetics.git},
   version={2.0}
 }
+- [![DOI](https://zenodo.org/badge/1064307948.svg)](https://doi.org/10.5281/zenodo.17210265)
 
 ## _License_
 This project is licensed under the MIT License - see the LICENSE file for details.
